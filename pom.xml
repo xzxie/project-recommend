@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.fs</groupId>
-  <artifactId>project-fs</artifactId>
+  <artifactId>project-recommend</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>project-fs</name>
+  <name>project-recommend</name>
   <url>http://maven.apache.org</url>
   
   <description>recommend engine solution</description>
