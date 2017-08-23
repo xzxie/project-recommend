@@ -10,7 +10,7 @@
   <name>project-fs</name>
   <url>http://maven.apache.org</url>
   
-  <description>file system solution</description>
+  <description>recommend engine solution</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
